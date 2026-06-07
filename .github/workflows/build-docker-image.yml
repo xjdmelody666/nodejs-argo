@@ -1,6 +1,3 @@
-permissions:
-contents: read
-packages: write
 name: Build and Push Docker Image
 
 on:
